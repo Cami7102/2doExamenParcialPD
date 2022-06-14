@@ -1,6 +1,6 @@
 package ejercicio2;
 
-public class Administrativos extends ChatEducativo{
+public class Administrativos extends Chat {
     private String nombre;
     private String cargo;
 

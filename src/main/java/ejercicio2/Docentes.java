@@ -1,6 +1,6 @@
 package ejercicio2;
 
-public class Docentes extends ChatEducativo{
+public class Docentes extends Chat {
     private String nombre;
     private String ci;
 
